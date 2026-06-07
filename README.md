@@ -80,6 +80,10 @@ The app will compile and automatically launch in your default web browser (typic
 
 ---
 
+## Live On
+
+https://movie-recommendation-eltj.onrender.com
+
 ## 📞 Developer Contact
 
 For queries, collaborations, or feedback, feel free to reach out:
